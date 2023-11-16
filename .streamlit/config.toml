@@ -5,4 +5,5 @@ displayEnabled = true
 toolbarMode = "minimal"
 
 [theme]
-base = "dark"
+
+base = "dark" 
