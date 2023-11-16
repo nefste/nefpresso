@@ -1,0 +1,9 @@
+[client]
+
+caching = true
+displayEnabled = true
+toolbarMode = "minimal"
+
+[theme]
+
+# base = "dark"
